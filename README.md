@@ -1,2 +1,2 @@
 # Updated-Portfolio
-Portfolio Includes progress of projects completed so far. Starting with simple HTML and CSS assignments, then working with Javascript and Jquery. Migrating to API's and Firebase. This portfolio shows the progression I have learned from complete novice to a good foundation for creating a variety of apps, designs and projects.
+Portfolio Includes progress of projects completed so far. Starting with simple HTML and CSS assignments, then working with Javascript, Jquery and lastly implementing API's and Firebase databases. My portfolio starts off with simpler projects and displays the more complex assignments entailing all coding languages (HTML, CSS, Javascript, Jquery, Firebase) learned thus far. MOre to come as knowledge and experience advances.
